@@ -5,6 +5,6 @@ permalink: /publication/2019-10-Dynamic-Workflows-for-Routine-Materials-Discover
 date: 2019-10-23
 venue: 'Journal of Chemical Information and Modeling'
 link: 'https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00550'
-image: '../images/GASpy_pers_toc.png'
+image: '../images/SE_toc.png'
 citation: '<b>Aini Palizhati</b>, Wen Zhong, Seoin Back, Zachary Ulissi, "Toward Predicting Intermetallics Surface Properties with High-Throughput DFT and Convolutional Neural Networks". Journal of Chemical Information and Modeling, 2019.'
 ---
