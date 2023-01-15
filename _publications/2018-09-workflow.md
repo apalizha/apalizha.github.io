@@ -1,10 +1,10 @@
 ---
-title: "Active learning across intermetallics to guide discovery of electrocatalysts for CO2 reduction and H2 evolution"
+title: "Dynamic Workflows for Routine Materials Discovery in Surface Science"
 collection: publications
-permalink: /publication/2018-01-01-Active-learning-across-intermetallics-to-guide-discovery-of-electrocatalysts-for-CO2-reduction-and-H2-evolution
+permalink: /publication/2018-01-01-Dynamic-Workflows-for-Routine-Materials-Discovery-in-Surface-Science
 date: 2018-01-01
-venue: 'Nature Catalysis'
-link: 'https://www.nature.com/articles/s41929-018-0142-1'
-image: '../images/GASpy.png'
-citation: '<b>Kevin Tran</b>, Zachary Ulissi. "Active learning across intermetallics to guide discovery of electrocatalysts for CO2 reduction and H2 evolution". Nature Catalysis, 2018.'
+venue: 'Journal of Chemical Information and Modeling'
+link: 'https://pubs.acs.org/doi/10.1021/acs.jcim.8b00386'
+image: '../images/TOC.pdf'
+citation: 'Kevin Tran, <b>Aini Palizhati</b>, Seoin Back, Zachary Ulissi, "Dynamic Workflows for Routine Materials Discovery in Surface Science". Journal of Chemical Information and Modeling, 2018.'
 ---
