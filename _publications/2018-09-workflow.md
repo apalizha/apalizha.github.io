@@ -1,0 +1,10 @@
+---
+title: "Active learning across intermetallics to guide discovery of electrocatalysts for CO2 reduction and H2 evolution"
+collection: publications
+permalink: /publication/2018-01-01-Active-learning-across-intermetallics-to-guide-discovery-of-electrocatalysts-for-CO2-reduction-and-H2-evolution
+date: 2018-01-01
+venue: 'Nature Catalysis'
+link: 'https://www.nature.com/articles/s41929-018-0142-1'
+image: '../images/GASpy.png'
+citation: '<b>Kevin Tran</b>, Zachary Ulissi. "Active learning across intermetallics to guide discovery of electrocatalysts for CO2 reduction and H2 evolution". Nature Catalysis, 2018.'
+---
