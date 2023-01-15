@@ -219,6 +219,11 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _redirects
+  - scope:
+      type: redirects
+    values:
+      layout: redirect
 
 
 # Sass/SCSS
