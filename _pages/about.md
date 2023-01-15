@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-to be updated as writing about yourself is hard
+Coming soon ... 
