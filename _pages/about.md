@@ -16,5 +16,5 @@ I am many things outside of my professional background. Allow me to give you a g
 * I am a firm believer that financial literacy should be taught early on, so I make sure to teach my cats about budgeting and saving for their catnip fund.
 * My favorite quotes are "live the pursuit of growth" and "a jack of all trades is a master of none, but oftentimes better than a master of one".
 * I enjoy mentoring others, as I believe that sharing knowledge is the best way to multiply it.
-* Dancing is my therapy, I used to compete at collegiate level ballroom competitions, but now I mostly do salsa/bachata because I like to keep things spicy.
+* Dancing is my therapy, and I used to compete at collegiate level ballroom competitions.
 * I usually start my morning at the gym with weight training.  
